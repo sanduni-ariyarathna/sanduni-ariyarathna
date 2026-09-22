@@ -1,29 +1,50 @@
- Hi, I'm Sanduni Ariyarathna 👋
+# Hi, I'm Sanduni Ariyarathna 👋
 
- UI/UX Designer | Frontend Developer | HNDIT Student
+### UI/UX Designer | Frontend Developer | HNDIT Student
 
 I'm an HNDIT student with a strong interest in UI/UX design and frontend development.
 
-I enjoy creating simple, attractive, and user-friendly digital experiences using Figma and modern web technologies.
+I enjoy creating simple, attractive, and user-friendly digital experiences using Figma and web technologies.
 
- Skills
+---
 
-- UI/UX Design – Figma, Wireframing, Prototyping
-- Frontend – HTML, CSS, JavaScript, Bootstrap
-- Backend – PHP, MySQL
-- Business Analysis
-- IT Project Management
+## 🛠️ Skills
 
- Projects
+### 🎨 UI/UX Design
+Figma • Wireframing • Prototyping • Responsive UI Design
 
--  Nexora Online Flower Shop
--  Online Dress Shopping
--  My Portfolio
+### 💻 Frontend Development
+HTML • CSS • JavaScript • Bootstrap
 
-###  Career Goal
+### 🗄️ Backend Development
+PHP • MySQL
 
-To build my career as a UI/UX Designer and continue improving my skills in frontend development.
+### 📋 Other Areas
+Business Analysis • IT Project Management
 
-###  Contact
+---
 
-- GitHub: @sanduni-ariyarathna
+## 🚀 Projects
+
+🌸 **Nexora Online Flower Shop**  
+Online flower shopping system with UI/UX design and web development.
+
+👗 **Online Dress Shopping**  
+Responsive clothing website designed and developed using modern web technologies.
+
+💻 **My Portfolio**  
+Personal portfolio showcasing my skills, projects, and experience.
+
+---
+
+## 🎯 Career Goal
+
+To build my career as a UI/UX Designer while continuing to improve my frontend development skills.
+
+---
+
+## 📫 Connect With Me
+
+💻 GitHub: [@sanduni-ariyarathna](https://github.com/sanduni-ariyarathna)
+
+🔗 LinkedIn: [Sanduni Ariyarathna](www.linkedin.com/in/sanduni-ariyarathna)
