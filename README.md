@@ -1,16 +1,29 @@
-## Hi there 👋
+ Hi, I'm Sanduni Ariyarathna 👋
 
-<!--
-**sanduni-ariyarathna/sanduni-ariyarathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ UI/UX Designer | Frontend Developer | HNDIT Student
 
-Here are some ideas to get you started:
+I'm an HNDIT student with a strong interest in UI/UX design and frontend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating simple, attractive, and user-friendly digital experiences using Figma and modern web technologies.
+
+ Skills
+
+- UI/UX Design – Figma, Wireframing, Prototyping
+- Frontend – HTML, CSS, JavaScript, Bootstrap
+- Backend – PHP, MySQL
+- Business Analysis
+- IT Project Management
+
+ Projects
+
+-  Nexora Online Flower Shop
+-  Online Dress Shopping
+-  My Portfolio
+
+###  Career Goal
+
+To build my career as a UI/UX Designer and continue improving my skills in frontend development.
+
+###  Contact
+
+- GitHub: @sanduni-ariyarathna
