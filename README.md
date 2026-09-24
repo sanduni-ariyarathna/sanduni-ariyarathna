@@ -1,43 +1,44 @@
 # Hi, I'm Sanduni Ariyarathna 👋
 
-### UI/UX Designer | Frontend Developer | HNDIT Student
+### Aspiring UI/UX Designer | Frontend Developer | HNDIT Student @ SLIATE
 
-I'm an HNDIT student with a strong interest in UI/UX design and frontend development.
-
-I enjoy creating simple, attractive, and user-friendly digital experiences using Figma and web technologies.
+I love turning ideas into simple, beautiful & user-friendly designs. Currently exploring Figma to React workflows.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
-### 🎨 UI/UX Design
+* UI/UX Design
 Figma • Wireframing • Prototyping • Responsive UI Design
 
-### 💻 Frontend Development
-HTML • CSS • JavaScript • Bootstrap
+* Frontend Development
+ • React.js • HTML • CSS • JavaScript • Bootstrap
 
-### 🗄️ Backend Development
+* Backend Development
 PHP • MySQL
 
-### 📋 Other Areas
+* Other Areas
 Business Analysis • IT Project Management
 
 ---
 
 ## 🚀 Projects
 
-🌸 **Nexora Online Flower Shop**  
-Online flower shopping system with UI/UX design and web development.
+* Coffee Shop* | React.js 
+- Modern responsive coffee shop landing page
 
-👗 **Online Dress Shopping**  
+* Nexora Petal Bar* | PHP, MySQL, Bootstrap | Localhost (XAMPP)
+- Online flower shop with cart, checkout & admin panel
+
+*Online Dress Shopping* |HTML, CSS, Java Script, Boosterapp 
 Responsive clothing website designed and developed using modern web technologies.
 
-💻 **My Portfolio**  
+*My Portfolio*  |React
 Personal portfolio showcasing my skills, projects, and experience.
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 
 To build my career as a UI/UX Designer while continuing to improve my frontend development skills.
 
@@ -48,3 +49,6 @@ To build my career as a UI/UX Designer while continuing to improve my frontend d
 💻 GitHub: [@sanduni-ariyarathna](https://github.com/sanduni-ariyarathna)
 
 🔗 LinkedIn: [Sanduni Ariyarathna](www.linkedin.com/in/sanduni-ariyarathna)
+
+
+> Open to UI/UX & Frontend Internship Opportunities!
